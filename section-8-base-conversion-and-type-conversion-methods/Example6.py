@@ -23,3 +23,4 @@ if __name__ == '__main__':
     s_data6 = str(2-4j)
     print(s_data6)
     print(type(s_data6))
+

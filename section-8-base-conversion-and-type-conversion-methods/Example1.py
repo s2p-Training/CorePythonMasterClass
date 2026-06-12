@@ -4,6 +4,7 @@ if __name__ == '__main__':
     i_num1 = 10
 
     b_num1 = bin(i_num1)
+
     print(b_num1)
     print(type(b_num1))
 
@@ -14,3 +15,4 @@ if __name__ == '__main__':
     h_num3 = hex(i_num1)
     print(h_num3)
     print(type(h_num3))
+
